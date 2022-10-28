@@ -1,7 +1,12 @@
 # ImageDenoisingCDDAE [2022.04 ~ 2022.09]
 
 ### **의료영상에서 Convolutional Dual-Decoder AutoEncoder 모형을 이용한 잡음제거**
-- [성언승](https://github.com/EonSeungSeong), 허지혜, 한성현, 임동훈
+- [성언승](https://github.com/EonSeungSeong), 허지혜, 한성현, 임동훈<br>
+
+
+![image](https://user-images.githubusercontent.com/64202709/198553224-6cbfa44a-0625-4a79-8f1b-8e3cca1a5304.png)
+
+**Image Denoising using One Encoder and Two Decoder**
 
 ### **Paper Content**
 **1) Noise**
