@@ -21,7 +21,7 @@
 
 **3) Dataset**
 - MRI Image
-- CT Image 
+- CT Image <br>
 **4) Score**
 - PSNR(Peak Single to Noise Ratio)
 - SSIM(Structural Similarity Index)
